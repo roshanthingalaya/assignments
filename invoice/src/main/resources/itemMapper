@@ -1,0 +1,7 @@
+box_of_chocolates,true,FOOD,5
+book,false,BOOK,0
+chocolate_bar,false,FOOD,0
+music_CD,false,OTHERS,10
+bottle_of_perfume,true,OTHERS,15
+bottle_of_perfume,false,OTHERS,10
+packet_of_headache_pills,false,MEDICAL_PRODUCTS,0
